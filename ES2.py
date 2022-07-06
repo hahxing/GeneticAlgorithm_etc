@@ -2,7 +2,7 @@ import numpy as np
 import math
 import matplotlib.pyplot as plt
 
-# 不完整
+# 不完整的
 class CMAES():
     def __init__(self, func, count):
         self.gen = count
